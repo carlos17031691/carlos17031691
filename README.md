@@ -21,11 +21,43 @@ Senior Software Engineer con **15+ años de experiencia** abarcando arquitectura
 
 ---
 
+### 💼 Experiencia Laboral
+
+#### 🔹 **Senior Software Engineer** — Sendspark *(San Antonio, TX · Remoto)*
+`2021 – 2026`
+- **Arquitectura & Backend:** Diseño y escalamiento de APIs de alta demanda utilizando **Node.js, NestJS, PostgreSQL y MongoDB**, sirviendo miles de peticiones diarias con alta confiabilidad.
+- **IA & Procesamiento Multimedia:** Desarrollo de pipelines de procesamiento de video con **FFmpeg** y flujos impulsados por **IA** para transcodificación automatizada, optimización de video, miniaturas dinámicas y sincronización labial (*lip-sync*).
+- **Integraciones Enterprise:** Construcción e integración de conectores empresariales con **Salesforce, HubSpot y Gmail**.
+- **Infraestructura Cloud:** Orquestación de infraestructura serverless y orientada a eventos en **AWS (Lambda, S3)** y **Google Cloud (Cloud Run)**, garantizando alta disponibilidad para más de 10,000 usuarios activos.
+- **Seguridad & Compliance:** Liderazgo en prácticas DevSecOps y mitigación de vulnerabilidades de pruebas de penetración, logrando la certificación **SOC 2 Type II**.
+
+#### 🔹 **Node.js Backend Developer** — PRAGMA *(Remoto)*
+`2021 – 2022`
+- Desarrollo y mantenimiento de aplicaciones web y móviles de alta disponibilidad bajo arquitectura Serverless con **AWS Lambda** y JavaScript.
+- Implementación de prácticas estrictas de **DevSecOps** a lo largo del SDLC mediante **GitLab-CI** y **Azure DevOps**.
+
+#### 🔹 **Software Developer II** — Quantum Connexion & AOS *(Remoto)*
+`2020 – 2021`
+- Diseño y desarrollo de soluciones web empresariales utilizando **C#, .NET Core, Node.js y Angular**.
+- Optimización de rendimiento de aplicaciones y modernización de sistemas heredados (*legacy*).
+
+#### 🔹 **Tech Lead / Scrum Master** — Lab Satoshi *(Bogotá · Remoto)*
+`2018 – 2020`
+- Gestión y liderazgo técnico del departamento de desarrollo de software bajo metodología ágil (Scrum).
+- Arquitectura de soluciones web complejas, integración de tecnologías **Blockchain** y administración de infraestructura Linux.
+
+#### 🔹 **IT Infrastructure & Network Roles** — Diversas Empresas
+`2008 – 2018`
+- Evolución profesional desde Soporte de Infraestructura hasta **Jefe de Infraestructura IT** (Consorcio Moda Baly, Plásticos Martínez).
+- Diseño de arquitecturas de red, administración de servidores on-premise y planes de continuidad operativa.
+
+---
+
 ### 🛠️ Tech Stack & Herramientas
 
 ```
-Lenguajes:      TypeScript, JavaScript, PHP, Python, C#
-Frameworks:     NestJS, Laravel, Express, Hapi, .NET Core, React, Vue / Nuxt
+Lenguajes:      TypeScript, JavaScript, PHP (Laravel), Python, C# (.NET Core)
+Frameworks:     NestJS, Express, Hapi, Laravel, .NET Core, React, Vue / Nuxt
 Cloud:          Google Cloud (Cloud Run, GCE, Artifact Registry), AWS (Lambda, S3)
 Bases de Datos: PostgreSQL, MongoDB, Redis, Firestore, Prisma ORM
 DevSecOps:      Docker, CI/CD (GitHub Actions, GitLab CI), SOC 2 Type II
