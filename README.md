@@ -2,10 +2,10 @@
 
 ### Senior Software Engineer | DevSecOps & Compliance | AI Integrations | 15+ YOE
 
-[![Portfolio](https://img.shields.io/badge/Portafolio-carlos--torres.is--a.dev-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://carlos-torres.is-a.dev)
+[![Portfolio](https://img.shields.io/badge/Portafolio-carlos--torres--portafolio.web.app-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://carlos-torres-portafolio.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-carlostorres1983-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlostorres1983)
-[![GCP Cloud Run](https://img.shields.io/badge/Google_Cloud-Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://carlos-torres.is-a.dev)
-[![SOC 2](https://img.shields.io/badge/Compliance-SOC_2_Type_II-10b981?style=for-the-badge&logo=shield&logoColor=white)](https://carlos-torres.is-a.dev)
+[![GCP Cloud Run](https://img.shields.io/badge/Google_Cloud-Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://carlos-torres-portafolio.web.app/)
+[![SOC 2](https://img.shields.io/badge/Compliance-SOC_2_Type_II-10b981?style=for-the-badge&logo=shield&logoColor=white)](https://carlos-torres-portafolio.web.app/)
 
 ---
 
@@ -68,7 +68,7 @@ IA & Media:     FFmpeg Video Processing, Claude & Gemini API Integrations
 
 ### 🚀 Proyectos Destacados
 
-- 🌐 **[carlos-torres.is-a.dev](https://carlos-torres.is-a.dev):** Portafolio personal moderno y responsive alojado en GitHub Pages con servicios conectados en Google Cloud Platform.
+- 🌐 **[carlos-torres-portafolio.web.app](https://carlos-torres-portafolio.web.app/):** Portafolio personal moderno y responsive alojado en Google Cloud (Firebase Hosting & Cloud Run).
 - 🤖 **[base-ai](https://github.com/carlos17031691/base-ai):** CLI scaffolding genérico para arquitecturas gobernadas por IA y repositorios multi-servicio desacoplados.
 - 💳 **[Fintech Payment Ledger](https://github.com/carlos17031691/prueba-tecnica-backend-ledger-javalabs):** Motor de doble partida contable con webhooks idempotentes y pruebas de carga concurrente.
 
