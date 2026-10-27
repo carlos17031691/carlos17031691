@@ -4,8 +4,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portafolio-carlos--torres--portafolio.web.app-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://carlos-torres-portafolio.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-carlostorres1983-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlostorres1983)
-[![GCP Cloud Run](https://img.shields.io/badge/Google_Cloud-Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://carlos-torres-portafolio.web.app/)
-[![SOC 2](https://img.shields.io/badge/Compliance-SOC_2_Type_II-10b981?style=for-the-badge&logo=shield&logoColor=white)](https://carlos-torres-portafolio.web.app/)
 
 ---
 
